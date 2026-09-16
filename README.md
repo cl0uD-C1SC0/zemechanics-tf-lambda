@@ -87,7 +87,7 @@ Liste os recursos criados:
 terraform state list
 ```
 
-Para destruir a infraestrutura:
+Para destruir a infraestrutura
 
 ```bash
 terraform destroy
